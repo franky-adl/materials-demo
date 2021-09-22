@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gummy Bears
+* source:	https://sketchfab.com/3d-models/gummy-bears-f5463367cb5247bdbaca78667e8e3260
+* author:	LittleWhiteElk (https://sketchfab.com/LittleWhiteElk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gummy Bears" (https://sketchfab.com/3d-models/gummy-bears-f5463367cb5247bdbaca78667e8e3260) by LittleWhiteElk (https://sketchfab.com/LittleWhiteElk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
